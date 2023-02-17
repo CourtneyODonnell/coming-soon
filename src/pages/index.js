@@ -14,6 +14,17 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
+      <header>
+        <nav> 
+          <a href="">Home</a>
+          <a href="">About</a>
+          <a href=""></a>
+          <a href="">Contact</a>
+          
+        </nav>
+
+      </header>
       <main className={styles.main}>
 
         <div className={styles.center}>
