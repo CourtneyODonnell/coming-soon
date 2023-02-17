@@ -1,3 +1,9 @@
+note: please use branches, thank you! :)
+
+helpful tutorial on NextJS:
+
+https://youtu.be/KjY94sAKLlw
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
